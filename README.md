@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevSecOps: Blue-Green Deployment of Swiggy-Clone on AWS ECS with AWS Code Pipeline
 
 ![](https://miro.medium.com/v2/resize:fit:802/1*sHlD2d3AfaxzYEDlegzHhg.png)
@@ -541,3 +542,6 @@ Observe that the title changed as expected.
 
 > [!Note]
 > Join Our [Telegram Community](https:t.me/prodevopsguy) || [Follow me](https://github.com/NotHarshhaa) for more DevOps Content
+=======
+# Swiggy_clone
+>>>>>>> 3a1f6e551abdfcdc3219cd92f0694e4939bd648a
